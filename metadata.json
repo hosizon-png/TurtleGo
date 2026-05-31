@@ -1,0 +1,6 @@
+{
+  "name": "慢慢",
+  "description": "专为您打造的轻奢慢调旅行规划与省心假期管理工具，主打国内精选松弛感度假行程，让生活慢一点。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
